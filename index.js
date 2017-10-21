@@ -2,4 +2,7 @@ function shout(string) {
   return string.toUpperCase()
 }
 
-shout("oh no!")
+function whisper(string) {
+  return string.toLowerCase()
+}
+
